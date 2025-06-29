@@ -1,3 +1,4 @@
+
 # Projeto BackEnd
 
 Esse é um projeto de backend para fins educacionais para comprovar atividade solicitada do curso de Desenvolvimento Web Full Stack do Geração Tech 2.0.
@@ -5,7 +6,7 @@ Esse é um projeto de backend para fins educacionais para comprovar atividade so
 ## Autores
 - [@annealmeida25](https://www.github.com/annealmeida25)
 - [@angeloqs](https://www.github.com/angeloqs)
-- [@Maju]
+- [@Maju](https://github.com/maju555)
 
 
 ## Stack utilizada
